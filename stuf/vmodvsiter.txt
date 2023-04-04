@@ -1,0 +1,24 @@
+V Model and Iterative software process model are two popular models used in software development.
+
+The V Model is a linear sequential approach to software development. It is called "V" because of the shape of the diagram that is created when the development process is mapped out. It involves the following steps:
+
+>Requirements gathering and analysis
+>System design
+>Subsystem design
+>Implementation (coding)
+>Testing (unit testing, integration testing, system testing, acceptance testing)
+>Deployment
+>Maintenance
+The V Model places emphasis on the testing phase, which is seen as critical to ensuring that the software meets the specified requirements. It also assumes that the requirements are clearly defined and understood by all stakeholders at the beginning of the development process.
+
+On the other hand, the Iterative software process model is an incremental approach to software development. It involves repeated cycles of development, where a small set of requirements is defined, developed, tested, and delivered in each cycle. Each cycle builds on the work of the previous cycle, and the process continues until the software is complete. The key steps in an iterative software process model are:
+
+>Requirements gathering and analysis
+>Design
+>Implementation (coding)
+>Testing
+>Review and feedback
+>Repeat
+Iterative models assume that requirements may change over time and that software development is an iterative and collaborative process. Each iteration allows for feedback from stakeholders, which can be incorporated into subsequent iterations.
+
+Both V Model and Iterative software process model have their advantages and disadvantages. The V Model is useful for projects with well-defined requirements, while the Iterative model is better suited to projects where requirements may change over time. Ultimately, the choice of model depends on the specific needs of the project and the preferences of the development team.
